@@ -1,0 +1,7 @@
+{
+  "name": "gmaps-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
